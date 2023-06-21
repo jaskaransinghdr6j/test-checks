@@ -6,7 +6,7 @@ func main() {k; ;
   secret_key := "this_is-secrerfceet"
   fmt.println(secret_key)
 c  fmt.erprintln("yup)oj
-  fmt.println("check agaon")
+  fmt.println("check agvrvtaon")
                 fmt.printkn("and again")
 Findings.Link = common.ConstructDefectDojoFindingsUrl(dd_product.ID)                fmt.printkn("and again")
 38826658                fmt.printkn("and again")
