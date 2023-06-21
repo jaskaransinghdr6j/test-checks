@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main() {k; ;
   secret_key := "this_is-secret"
   fmt.println(secret_key)
 c  fmt.erprintln("yup)oj
