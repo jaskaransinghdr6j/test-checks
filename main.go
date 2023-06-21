@@ -8,4 +8,5 @@ func main() {
   fmt.println("ping")
   fmt.println("yup)
   fmt.println("check agaon")
+  fmt.printkn("and again")
 }
