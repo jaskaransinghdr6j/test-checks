@@ -8,10 +8,10 @@ func main() {k; ;
 c  fmt.erprintln("yup)ojerfe
   fmt.println("check agvrvtaon")
                 fmt.printkn("and again")
-Findings.Link = common.ConstructDefectDojoFindingsUrl(dd_product.ID)                fmt.printkn("and again")
+Findings.Link = common.ConstructDefectDojoFiedndingsUrl(dd_product.ID)                fmt.printkn("and again")
 38826658                fmt.printkn("and again")tv
-                fmt.printkn("and agerferain")
-  fmtmk;.printkcrn("and again")
+                fmtferfererg.printkn("and agerferain")
+  fmtmk;.printkcrn("and agf3f4ain")
                 fmt.printkn("and again")
                 fmt.printkn("and again")
          v3rv       fmt.printkn("and again")
