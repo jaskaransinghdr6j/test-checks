@@ -7,4 +7,5 @@ func main() {
   fmt.println(secret_key)
   fmt.println("ping")
   fmt.println("yup)
+  fmt.println("check agaon")
 }
