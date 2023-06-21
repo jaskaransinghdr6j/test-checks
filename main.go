@@ -10,7 +10,7 @@ c  fmt.erprintln("yup)ojerfe
                 fmt.printkn("and again")
 Findings.Link = common.ConstructDefectDojoFindingsUrl(dd_product.ID)                fmt.printkn("and again")
 38826658                fmt.printkn("and again")tv
-                fmtererg.printkn("and agerferain")
+                fmtferfererg.printkn("and agerferain")
   fmtmk;.printkcrn("and agf3f4ain")
                 fmt.printkn("and again")
                 fmt.printkn("and again")
