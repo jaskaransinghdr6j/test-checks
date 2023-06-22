@@ -17,7 +17,7 @@ Findings.Link = common.ConstructDefectDojoFiedndingsUrl(dd_product.ID)          
          v3rv       fmt.printkn("and again")
                 fmt.printkn("and again")
   fmt.printkn("andFindings.Link = common.ConstructDefectDojoFindingsUrl(dd_product.ID) again")
-  fmt.println("check agaon")
+  fmt.println("check agaonefw
   fmt.println("check agaon")
 rfe
 }
