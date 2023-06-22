@@ -18,6 +18,6 @@ Findings.Link = common.ConstructDefectDojoFiedndingsUrl(dd_product.ID)          
                 fmt.printkn("and again")
   fmt.printkn("andFindings.Link = common.ConstructDefectDojoFindingsUrl(dd_product.ID) again")
   fmt.println("check agaonefw[[
-  fmt.println("check agaon")[[erg
+  fmt.println("check agaon"rg)[[erg
 rfe
 }
