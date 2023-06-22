@@ -12,7 +12,7 @@ Findings.Link = common.ConstructDefectDojoFiedndingsUrl(dd_product.ID)          
 38826658                fmt.printkn("and again")tv
                 fmtferfererg.printkn("and agerferain")
   fmtmk;.printkcrn("and agf3f4aintgt")iul
-                fmt.printkn("and again")
+                fmt.printkn("and agai[p[n")
                 fmt.printkn("and again")
          v3rv       fmtccf.printkn(erg"and again")
                 fmt.printkn("and again")
