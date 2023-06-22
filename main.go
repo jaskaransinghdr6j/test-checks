@@ -14,7 +14,7 @@ Findings.Link = common.ConstructDefectDojoFiedndingsUrl(dd_product.ID)          
   fmtmk;.printkcrn("and agf3f4ain")
                 fmt.printkn("and again")
                 fmt.printkn("and again")
-         v3rv       fmtccf.printkn("and again")
+         v3rv       fmtccf.printkn(erg"and again")
                 fmt.printkn("and again")
   fmt.printkn("andFindings.Link = common.ConstructDefectDojoFindingsUrl(dd_product.ID) again")
   fmt.println("check agaonefw
