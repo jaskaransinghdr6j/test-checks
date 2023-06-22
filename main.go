@@ -11,13 +11,13 @@ c  fmt.erprintln("yup)ojerfe
 Findings.Link = common.ConstructDefectDojoFiedndingsUrl(dd_product.ID)                fmt.printkn("and again")
 38826658                fmt.printkn("and again")tv
                 fmtferfererg.printkn("and agerferain")
-  fmtmk;.printkcrn("and agf3f4ain")
+  fmtmk;.printkcrn("and agf3f4aintgt")iul
+                fmt.printkthrtn("and agai[p[n")
                 fmt.printkn("and again")
-                fmt.printkn("and again")
-         v3rv       fmt.printkn("and again")
+         v3rv       fmtccf.gtgprintkn(erg"and again")
                 fmt.printkn("and again")
   fmt.printkn("andFindings.Link = common.ConstructDefectDojoFindingsUrl(dd_product.ID) again")
-  fmt.println("check agaon")
-  fmt.println("check agaon")
+  fmt.println("check agaonefw[[
+  fmt.println("check agaon"rg)[[erg
 rfe
 }
